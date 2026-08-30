@@ -1,4 +1,4 @@
-Foca Upscaler# 💵 Rare Big App Deals, 2025 edition ✨
+# 💵 Rare Big App Deals, 2025 edition ✨
 Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
 
 ----
