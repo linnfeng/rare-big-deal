@@ -1,4 +1,4 @@
-# 💵 Rare Big App Deals, 2025 edition ✨
+Foca Upscaler# 💵 Rare Big App Deals, 2025 edition ✨
 Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
 
 ----
@@ -327,6 +327,7 @@ Free & open-source.
 | 🧠 | [Quizify](https://quizify.io/?utm_source=rarebigdeal) | AI-powered platform for creating interactive quizzes, forms, and surveys without coding. | **25% OFF** Annual plan with code **RAREBIGDEAL25** | 2026-12-31 |
 | 🔮 | [esotericAI](https://esotericai.xyz?ref=rarebigdeal) | AI-powered tarot readings and cosmic blueprint astrology insights for self-discovery | Get **free credits on signup** to explore tarot readings and cosmic insights and **50% OFF on subscriptions** with code rarebigdeal auto applied on signup | 2026-12-31 |
 | | [Foca Upscaler](https://focaupscaler.com) | AI image upscaler and enhancer for improving blurry, low-resolution, and compressed images while preserving realistic textures and natural detail. | Get **15 free credits on signup** and **20% OFF** first payment with code **RAREBIGDEAL20** | 2026-05-31 |
+| 🧮 | [Math AI](https://mathai.chat/) | Browser-based AI math solver for typed equations, word problems, and uploaded problem photos with guided step-by-step explanations. | Free credits available to start; optional paid plans for additional usage and features | |
 
 
 ### Lifestyle
