@@ -333,6 +333,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 💌 | [https://digitalloveletter.online/](https://digitalloveletter.online/) | Digital Love Letter: personal letter writing with optional AI drafts, photos, music and an envelope preview. | Free writing and preview; recipient links/QR sharing require credits. No discount or coupon claimed; maintainer review requested. | Not specified |
 | 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 | 2026-11-30 |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
