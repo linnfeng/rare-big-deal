@@ -617,6 +617,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🎨 | [Caricature Maker](https://caricature-maker.online/) | Create playful AI caricature portraits from photos or text, with eight styles and adjustable exaggeration. | One free 1K generation; no promotional discount claimed | Not specified |
 | 📐 | [CAD Scene](https://cadscene.com) | Turns images into professional, photorealistic architectural renders with AI in seconds. | **5% OFF** with discount code **RBD** | 2027-01-01 |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
